@@ -1,0 +1,19 @@
+Funtionele eisen:
+De voorraadstatus moet real-time worden bijgewerkt, waarbij klanten worden geïnformeerd over beschikbaarheid op het moment van bekijken.
+Gebruikers moeten persoonlijke profielinformatie kunnen toevoegen, bewerken en bekijken.
+De applicatie moet een zoekfunctie bieden waarmee gebruikers naar specifieke inhoud kunnen zoeken.
+Gebruikers moeten de mogelijkheid hebben om feedback te geven via een online formulier.
+Gebruikers dienen verschillende lijsten te kunnen opvragen, toevoegen, aanpassen en verwijderen.
+Bij het opvragen van een product moet alle gerelateerde producten te zien zijn.
+Klanten moeten televisies kunnen toevoegen aan hun winkelwagen en het afrekenproces doorlopen, inclusief het invoeren van verzendgegevens en betalingsinformatie.
+Gebruikers moeten een verlanglijst kunnen maken en delen, en deze direct kunnen omzetten in een winkelwagen wanneer ze besluiten tot aankoop over te gaan.
+Klanten moeten elektronische cadeaubonnen kunnen kopen en inwisselen voor televisies en/of accessoires.
+De applicatie dient informatie over het geschatte energieverbruik van elk televisiemodel te delen om milieubewuste klanten te informeren.
+
+
+Niet functionele eisen:
+De applicatie moet voldoen aan de geldende wet- en regelgeving voor gegevensbeveiliging.
+De gebruikersinterface moet intuïtief en gemakkelijk te begrijpen zijn voor nieuwe gebruikers.
+De applicatie moet in staat zijn om gelijktijdige gebruikers te ondersteunen zonder aanzienlijk prestatieverlies.
+In de applicatie moeten er minimaal 25 gebruikers tegelijk ingelogd kunnen zijn.
+De applicatie moet beperkt toegang geven tot bepaalde gegevens voor geautoriseerde gebruikers.
